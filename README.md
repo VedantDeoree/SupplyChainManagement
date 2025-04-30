@@ -1,4 +1,4 @@
-# Kolte Patil Construction Shipment Cost Prediction
+# Shipment Cost Prediction
 This project focuses on analyzing and predicting the total construction shipment cost (Total Cost (₹)) using linear regression. The dataset is sourced from Kolte Patil's combined shipment records.
 
 📁 Dataset
